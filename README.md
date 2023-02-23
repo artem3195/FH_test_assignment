@@ -21,9 +21,11 @@ I save all necessary requirements into "requirements.txt" file and create a "Doc
 name, copy and run commands.
    
 4. "Implement CI/CD pipeline on Github Actions."
+
 This step is in progress
    
 5. "Add a clear README file with instructions."
+
 README file is ready
    
 
