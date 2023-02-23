@@ -2,7 +2,7 @@
 Image classification dockerized model
 
 ## Description 
-Description here 
+In this project I trained a neural network, developed API and dockerized the project.
 
 ## Instructions and progress
 1. "Build a classification model (Deep learning preferred)."
@@ -45,6 +45,7 @@ To run web page with image classification you need:
 If the image is running successfully the next message will appear:
 
 ```You can now view your Streamlit app in your browser.```
+
 ```URL: http://0.0.0.0:8501```
 
 You need to open your browser and past the URL in it.
