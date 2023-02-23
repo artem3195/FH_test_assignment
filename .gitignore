@@ -2,4 +2,4 @@ Data for test
 .ipynb_checkpoints
 venv
 .gitignore
-.idea
+.idea/
